@@ -27,5 +27,5 @@ Building web based products, we could not prevent the creation of some JS framew
 
 ## Rust
 
-We use **Rust** to offload memory and performance intense tasks from Java. We therefore built a runtime to provide ultra low-latency micro services via the **Redis RESP* protocol:
+We use **Rust** to offload memory and performance intense tasks from Java. We therefore built a runtime to provide ultra low-latency micro services via the **Redis RESP** protocol:
 * [Jupiter](https://github.com/scireum/jupiter)
