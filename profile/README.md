@@ -18,6 +18,15 @@ The framework is split into several libraries, depending on the functionality ne
 * [SIRIUS db](https://github.com/scireum/sirius-db)
 * [SIRIUS biz](https://github.com/scireum/sirius-biz)
 
+We also (sadly) had to build a parser and compiler for SASS:
+* [server-sass](https://github.com/scireum/server-sass)
+
+Also, we built a simple parsing library (used by SIRIUS web for the **Tagliatelle Compiler** and by **server SASS**):
+* [parsii](https://github.com/scireum/parsii)
+
+Finally, we use SIRIUS to build a test-application, which we internally used to mock the API of S3:
+* [S3 Ninja](https://github.com/scireum/s3ninja)
+
 ## JavaScript
 
 Building web based products, we could not prevent the creation of some JS frameworks / libraries:
