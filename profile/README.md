@@ -1,4 +1,4 @@
-![scireum GmbH](profile/logo.svg)
+![scireum GmbH](logo.svg)
 
 > Die scireum GmbH entwickelt Softwareprodukte in den Bereichen Handelsinformationssysteme, E-Commerce und Messaging.
 
