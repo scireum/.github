@@ -1,9 +1,9 @@
-![scireum GmbH](https://scireum.de/wp-content/uploads/2021/07/cropped-logo_scireum3-300x98.png)
+![scireum GmbH](https://scireum.de/wp-content/uploads/scireum_Logo_web_small-1-e1739896028759.png)
 
 > Die scireum GmbH entwickelt Softwareprodukte in den Bereichen Handelsinformationssysteme, E-Commerce und Messaging.
 
 
-We're a software company located in Germany next to the city of Stuttgart. We're a firm believer in open source software and thus release as much as possible under accessible licenses.
+We're a software company located in Stuttgart, Germany. We're a firm believer in open source software and thus release as much as possible under accessible licenses.
 
 [https://www.scireum.de](https://www.scireum.de)
 
